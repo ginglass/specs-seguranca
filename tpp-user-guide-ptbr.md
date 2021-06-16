@@ -1,7 +1,6 @@
 # Guia do Usuário Final para Receptores de Dados e Iniciadores de Pagamento (TTP/PISP)  {#GuiaTTP}
 
-TPP - Third Party Provider
-PISP - Payment Initiation Service Provider
+TPP - Third Party Provider | PISP - Payment Initiation Service Provider
 
 ## 1.0 Registrando um Aplicativo  {#RegistrantoApp}
 
